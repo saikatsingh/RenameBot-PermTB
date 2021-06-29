@@ -12,7 +12,7 @@ class script(object):
     DEL_THUMB = "Thumbnail cleared succesfully!"
     NO_THUMB = "No thumbnails found!"
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
-    CUSTOM_CAPTION_UL_FILE = "Join @MoviZenX for Updates"
+    CUSTOM_CAPTION_UL_FILE = "Join @MoviZenX"
     HELP_USER = """It's not that complicated😅
     
 1. Send me any Telegram File.
